@@ -1,0 +1,36 @@
+{
+  "name": "lobster-core",
+  "version": "0.1.0",
+  "description": "Autonomous AI Agent Runtime - inspired by claw-code-rust, built for commercial AI",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "lobster": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "dev": "tsx src/cli.ts",
+    "start": "node dist/cli.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.37",
+    "tsx": "^4.21.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "ai-agent",
+    "claude",
+    "autonomous-agent",
+    "bounty-hunting",
+    "github-api"
+  ],
+  "license": "MIT"
+}
