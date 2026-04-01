@@ -1,0 +1,16 @@
+# FUNDING.yml — lobster-core
+
+github:
+  - D2758695161
+
+patreon:
+  - LobsterAgent
+
+open_collective:
+  - lobster-core
+
+custom:
+  - name: USDT (TRC20)
+    address: "TMuA6YqfCeX8EhbfYEg5y7S4DqzSJireY9"
+  - name: USDT (ERC20)
+    address: "0xaae0101ac77a2e4e0ea826eb4d309374f029b0a6"
