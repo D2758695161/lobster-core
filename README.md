@@ -113,6 +113,19 @@ npm run build    # TypeScript compile
 npm test         # Run tests (11 tests)
 ```
 
+## 一筒的AI工具商店
+
+如果你觉得 lobster-core 有用，欢迎支持一下：
+
+🛒 [一筒的数字产品商店](https://d2758695161.github.io/wander-lobster-platform/shop.html)
+
+包含：
+- 🦞 Bounty Hunter Kit — AI自动扫描GitHub Bounty（¥29/$4）
+- 📊 PR Reviewer — AI自动审查PR质量
+- 📚 AI提示词包 / Bounty攻略
+
+💰 USDT/ETH/BSC: `0xaae0101ac77a2e4e0ea826eb4d309374f029b0a6`
+
 ## License
 
 MIT
